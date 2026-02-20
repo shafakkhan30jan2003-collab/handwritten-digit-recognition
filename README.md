@@ -22,16 +22,11 @@ The application allows users to upload handwritten digit images (0–9), store t
 - Predict handwritten digits  
 - Interactive web interface  
 
----
-
-## 📸 UI Preview
-![App UI](ui_preview.png)
-
----
+----
 
 ## 🎥 Demo Video
-👉 [Watch Project Demo](https://drive.google.com/drive/u/0/home)
+👉 [Watch Project Demo](https://drive.google.com/file/d/1a6wl72WaFjil22BufB0sE4ppNvl0F7rB/view?usp=sharing)
 
 ---
 
-## ▶ Run Locally
+
